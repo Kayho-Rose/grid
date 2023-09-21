@@ -40,7 +40,7 @@ i{
 
 /*Main*/
 .promo{
-    background-image: url(/Grid/images/comp.png);
+    background-image: url(/Grid/grid/images/comp.png);
     background-size: cover;
     background-position: center;
     display: grid;
